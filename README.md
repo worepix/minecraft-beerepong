@@ -1,5 +1,7 @@
 # Minecraft BeerPong
 
+[![Build Status](https://travis-ci.org/worepix/minecraft-beerepong.svg?branch=master)](https://travis-ci.org/worepix/minecraft-beerepong)
+
 Minecraft BeerPong Spigot Minectaft Server plugin and map.
 
 ![Screenshot](img/map.png)
