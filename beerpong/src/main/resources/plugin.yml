@@ -1,0 +1,35 @@
+main: com.radimkozak.beerpong.App
+name: BeerPong
+version: 0.1
+
+commands:
+    AddBlue:
+        description: Add player to Blue team
+        usage: /<command>
+
+    AddRed:
+        description: Add player to Red team
+        usage: /<command>
+
+    PlayGround:
+        description: Teleport player to playground
+        usage: /<command>
+
+    RemoveBlue:
+        description: Remove player from BLUE team
+        usage: /<command>
+
+    RemoveRed:
+        description: Remove player from RED team
+        usage: /<command>
+
+    TeamsList:
+        description: Print players in teams
+        usage: /<command>
+
+    Start:
+        description: Start game
+        usage: /<command>
+    Reset:
+        description: Reset game and teams
+        usage: /<command>
