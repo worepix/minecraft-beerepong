@@ -78,7 +78,7 @@ rm -rf server/world/ && mv world server/
 10. Install jdk and maven for building plugin
 
 ```
-sudo apt-get update && sudo apt install default-jdk && sudo apt-get install maven
+sudo apt-get update && sudo apt install default-jdk maven
 ```
 
 11. Build plugin. Build script will also move generated plugin into your generated Spigot server plugins folder.
